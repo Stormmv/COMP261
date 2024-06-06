@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Components
+comment1.params=graph
+comment1.target=java.util.Map\ findComponents(Graph)
+comment2.params=stop\ visited\ stack
+comment2.target=void\ depthFirstSearch1(Stop,\ java.util.Set,\ java.util.Stack)
+comment3.params=stop\ visited\ componentMap\ componentNumber
+comment3.target=void\ depthFirstSearch2(Stop,\ java.util.Set,\ java.util.Map,\ int)
+numComments=4
